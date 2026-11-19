@@ -14,7 +14,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 watch 谭谈交通 on [Bilibili](https://www.bilibili.com/)
+1. 🍭 watch 谭谈交通 on [Bilibili](https://www.bilibili.com/) lol
+2. 💻 build AI platform for Youngsters
 <!--END_SECTION:activity-->
 
 
